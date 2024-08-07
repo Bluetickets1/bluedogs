@@ -1,0 +1,14 @@
+{"extensions.ignoreRecommendations": false,
+    "workbench.editor.defaultBinaryEditor": "default",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.tabActionLocation": "left",
+    "workbench.editor.tabSizing": "fixed",
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    },
+    "workbench.editor.alwaysShowEditorActions": true
+}
